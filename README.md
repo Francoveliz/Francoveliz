@@ -1,11 +1,12 @@
 <h1 align="left">Hi 👋, I'm Franco</h1>
-<h3 align="left">a passionate self-taught front end developer from Argentina</h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-- 🌱 I’m currently learning **redux,next.js**
+<h3 align="left">A passionate self-taught front end developer from Argentina</h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-- 👨‍💻 All of my projects are available at [https://www.francoveliz.online/](https://www.francoveliz.online/)
-
-- 📫 How to reach me **francoleandroveliz@gmail.com**
+<p align="left">
+<a href="https://www.francoveliz.online/"><img alt="Website" src="https://img.shields.io/badge/Website-www.francoveliz.online-blue?style=flat-square&logo=google-chrome" target="_blank" rel="noopener noreferrer"></a>
+<a href="https://www.linkedin.com/in/francoveliz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Franco%20Veliz-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:francoleandroveliz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/francoleandroveliz@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 <br/>
 
@@ -30,17 +31,4 @@
 <p>
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=francoveliz&show_icons=true&locale=en" alt="francoveliz" /> &nbsp
 <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=francoveliz&show_icons=true&locale=en&layout=compact" alt="francoveliz" /> 
-</p>
-
-<br/><br/><br/><br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<br/>
-
-<p align="left">
-<a href="https://www.francoveliz.online/"><img alt="Website" src="https://img.shields.io/badge/Website-www.francoveliz.online-blue?style=flat-square&logo=google-chrome" target="_blank" rel="noopener noreferrer"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
