@@ -1,7 +1,9 @@
 <h1 align="left">Hi 👋, I'm Franco</h1>
 
 <h3 align="left">A passionate self-taught front end developer from Argentina</h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h2>Connect with Me: </h2>
 
+<br/>
 <p align="left">
 <a href="https://www.francoveliz.online/"><img alt="Website" src="https://img.shields.io/badge/Website-www.francoveliz.online-blue?style=flat-square&logo=google-chrome" target="_blank" rel="noopener noreferrer"></a>
 <a href="https://www.linkedin.com/in/francoveliz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Franco%20Veliz-blue?style=flat-square&logo=linkedin"></a>
